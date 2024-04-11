@@ -19,4 +19,4 @@ Este script agrega un sistema de cargos (Estrellas) independiente debido a la au
 Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-![Vista dentro del juego](https://media.discordapp.net/attachments/1223021168663986228/1223023557554999296/unknown-1.png?ex=66185872&is=6605e372&hm=713559427848de0475e1d44d14ea79db104d5e23e8a4e54eed309f46588824c4&=&format=webp&quality=lossless)
+![Vista dentro del juego](https://github.com/0x73616D/Estrellas/assets/94794277/13614f9d-0a47-44e8-a606-212b4297dc25)
