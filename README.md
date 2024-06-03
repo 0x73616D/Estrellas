@@ -16,7 +16,7 @@ Este script agrega un sistema de cargos (Estrellas) independiente debido a la au
 - Moonloader 026.5 (incluido con el mod)
 
 ## ☄️ Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/1246311073204670540)
 
 ## 👀 Vista dentro del juego:
 ![Vista dentro del juego](https://github.com/0x73616D/Estrellas/assets/94794277/13614f9d-0a47-44e8-a606-212b4297dc25)
